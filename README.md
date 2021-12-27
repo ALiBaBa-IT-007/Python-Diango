@@ -1,2 +1,2 @@
--python=Diango
+python=Diango
 Developing 
